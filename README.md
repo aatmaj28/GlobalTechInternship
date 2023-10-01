@@ -1,1 +1,1 @@
-# GlobalTechInternship
+# Global Tech Internship
